@@ -1,4 +1,4 @@
-# Recommendation management system
+# Recommendations Management system
 Parse file and organize the data in catalogs
 <br />**Languages:** c, java
 <br />**Year:** 2021
