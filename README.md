@@ -1,2 +1,6 @@
-# LI3 2021
-C and JAVA Languages
+# Recommendation management system
+Parse file and organize the data in catalogs
+<br />**Languages:** c, java
+<br />**Year:** 2021
+<br />The development of these projects were proposed in the course *Laboratórios de Informática III*
+<br/>2rd year of the degree in Software Engineering 
